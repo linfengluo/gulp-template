@@ -18,13 +18,14 @@
 　|- build\
 　|- dist // 打包文件夹 \
 　|- src  // 源文件夹 \
-　|　|- assets // 放置一些第三方文件，如bootstrap \
+　|　|- assets // 放置第三方文件 \
 　|　|- css \
 　|　|- images \
 　|　|- js \
 　|　|- sass \
 　|　|- less \
 　-index.html\
+　-.jshintrc\
 　-gulpfile.js \
 　- package.json 
 
